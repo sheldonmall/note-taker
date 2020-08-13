@@ -1,45 +1,34 @@
-# This is unit 10 OOP: Team Generator Application
+# This is unit 11 Express: Note Taker Application
 
 ## Application URL
 
-My code can be found at [Team Generator](https://sheldonmall.github.io/team-generator/) 
+My code can be found at [Note Taker](https://sheldonmall.github.io/team-generator/) 
 
-![Team Page](./MyTeam.png)
-
-![Test Result](./testresult.png)
+<!-- ![Note Taker](./Notes.png) -->
 
 ## Description
 
-This is a CLI application that accepts employees information and then generates a displayable HTML file at the end which contains the team information.
+This is a CLI application that accepts note information and then generates a displayable HTML file at the end which contains the note information.
 
 ## Installation
 
-* Please run `npm install` to install the dependancies (inquirer and jest) before you execute this application.
+* Please run `npm install` to install the dependancies and also install express as `npm install express` before you execute this application.
 
 ## Usage 
 
 Execute the application by giving the following command on the command line:
-`$node app.js`
+`$node server.js`
 
-* The application will first prompt the **Manager** to enter his/her *name, ID, email* and *office number* information.
+* The application will open up the `Note` to enter note information.
 
-- After the **Manager** information has been entered, the application then proceeds to ask the information for **Team Members**.
-
-- There are two types of team members-**Engineers** and **Interns**.
-
-- Based on the type of team member to be entered, the application prompts for role specific information.
-
-- After each team member information has been entered, the application asks if the Manager wants to enter information for more team members. If the Manager wants to enter more team members, the applications loops back to accept more team members.
-
-- When the Manager does not want to enter more team members, the application then saves the team details in an HTML format that can be viewed in a browser.
 
 My Task list for developing this application are as follows:
 
 [x] Building the application
 
-[x] Running Tests 
+[ ] Testing the application 
 
-[X] Fully functional
+[ ] Fully functional
 
 [ ] User testing
 
@@ -62,4 +51,4 @@ There is no need for any license at the moment to use my application.
 
 ## Tests
 
-The applications is fully functional. Please test it for different roles and options.
+The applications is NOT functional. I have sent a long time troubleshooting it, and do not want to spend more time to this HW.
