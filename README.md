@@ -2,7 +2,7 @@
 
 ## Application URL
 
-My code can be found at [Note Taker](https://sheldonmall.github.io/team-generator/) 
+My code can be found at [Note Taker](https://sheldonmall.github.io/note-taker/) 
 
 <!-- ![Note Taker](./Notes.png) -->
 
