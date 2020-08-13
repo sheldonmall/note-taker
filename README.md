@@ -26,9 +26,9 @@ My Task list for developing this application are as follows:
 
 [x] Building the application
 
-[ ] Testing the application 
+[X] Testing the application 
 
-[ ] Fully functional
+[X] Fully functional
 
 [ ] User testing
 
@@ -51,4 +51,4 @@ There is no need for any license at the moment to use my application.
 
 ## Tests
 
-The applications is NOT functional. I have sent a long time troubleshooting it, and do not want to spend more time to this HW.
+The applications is functional. Please test and provide your feedback. Thanks.

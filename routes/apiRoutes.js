@@ -45,7 +45,7 @@ const readNotes = (app) => {
         .indexOf(chosenId);
       notesArray.splice(removeNoteIndex, 1);
       fs.writeFile(
-        __dirname + "../db/db.json",
+        `${__dirname}/../db/db.json`,
         JSON.stringify(notesArray),
         (err2, data2) => {
           if (err2) throw err2;
